@@ -254,7 +254,7 @@ public class App {
                     deleteCard();
                     break;
                 case "import":
-                    //loadSaves();
+                    loadSaves();
                     break;
                 case "export":
                     saveChanges();
